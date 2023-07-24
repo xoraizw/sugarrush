@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sugarrush/static/css/main.1cafa257.css",
+    "main.js": "/sugarrush/static/js/main.386c3a63.js",
+    "static/media/gid.gif": "/sugarrush/static/media/gid.c41c56fae173621586a7.gif",
+    "static/media/sugar.png": "/sugarrush/static/media/sugar.f6018c89ab5f0602bb83.png",
+    "index.html": "/sugarrush/index.html",
+    "main.1cafa257.css.map": "/sugarrush/static/css/main.1cafa257.css.map",
+    "main.386c3a63.js.map": "/sugarrush/static/js/main.386c3a63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cafa257.css",
+    "static/js/main.386c3a63.js"
+  ]
+}
