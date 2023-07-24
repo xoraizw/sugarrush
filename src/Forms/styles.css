@@ -1,0 +1,15 @@
+/* styles.css */
+.custom-select {
+    background-color: #f2aa64;
+    color: white;
+    border: none;
+    border-radius: 0px;
+    border-bottom: #904a3c solid 2px;
+    outline: none; /* Remove the grey outline on focus */
+  }
+  
+  .custom-select:hover,
+  .custom-select:focus {
+    background-color: #ffcf96; /* Custom color for hover and focus effect */
+  }
+  
